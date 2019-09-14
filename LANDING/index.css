@@ -1,0 +1,41 @@
+/*google MDN for documentation or css tricks*/
+body {
+	background-color: rgb(245, 245,245);
+	color: green;
+	font-size: 25px;
+	font-family: Helvatica;
+	background-image: url("https://images.unsplash.com/photo-1514539079130-25950c84af65");
+	background-size: cover;
+}
+#id{
+	font-size: 200px;
+}
+.pic {
+	border-radius: 50%;
+}
+#lead{
+	border: ;
+}
+.banner{
+	display: flex;
+	align-items: center;
+    justify-content: center;}
+.section{
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+}
+h1 {
+	font-family: 'Amatic SC', cursive;
+	color: red;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: yellow;
+}
